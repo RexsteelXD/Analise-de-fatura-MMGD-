@@ -1,4 +1,4 @@
-## Fatura MMGD: Sua Busca Pessoal, Mais Rápida! 
+## Fatura MMGD - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
